@@ -11,6 +11,6 @@ Script for toggling between light and dark mode for Windows 10/11 system. It wor
 
 ![image](https://github.com/alkistudio/misc/assets/135365176/7295da08-41a5-4ff1-b36b-79d01e817886)
 
-- And choose a keyboard shortcut. I chose F10, of course this can be anything.
+- And choose a keyboard shortcut. I chose F10, of course this can be anything. You might find that Ctrl+Alt+__ with some keyboard character might work more consistently as I believe it will not trigger if your current application has something else assigned to that key (e.g. F11).
 
 ![image](https://github.com/alkistudio/misc/assets/135365176/65e48338-993d-4427-ad45-323ba6cb4875)
